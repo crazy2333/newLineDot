@@ -1,2 +1,2 @@
 # newLineDot
-a sample game
+a simple game
